@@ -9,3 +9,5 @@ pip install requests, tqdm
 ```
 python baidu_image.py
 ```
+## 效果
+![美女](https://github.com/HFrost0/Simple-Baidu-Image-Download/blob/main/%E7%BE%8E%E5%A5%B3.png)
