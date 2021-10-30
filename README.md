@@ -9,5 +9,7 @@ pip install requests, tqdm
 ```
 python baidu_image.py
 ```
+然后按照提示输入关键词和想要下载的数量
+![命令行](https://github.com/HFrost0/Simple-Baidu-Image-Download/blob/main/%E5%91%BD%E4%BB%A4%E8%A1%8C.png)
 ## 效果
 ![美女](https://github.com/HFrost0/Simple-Baidu-Image-Download/blob/main/%E7%BE%8E%E5%A5%B3.png)
